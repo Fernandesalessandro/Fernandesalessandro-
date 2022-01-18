@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ame: Generate Datas
+          github_user_name: ame:Fernandesalessandro
 
 on:
   schedule: # execute every 12 hours
